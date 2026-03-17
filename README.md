@@ -15,6 +15,8 @@ This repo is a focused interview-prep system for experienced product managers mo
 - `prioritization-prompts.md` — decision-making under uncertainty, constraints, and competing bets
 - `ai-tradeoffs-prompts.md` — model, architecture, latency, cost, and trust tradeoff practice
 - `metrics-prompts.md` — success metrics, eval-to-KPI thinking, and guardrails
+- `real-questions.md` — 20 real AI PM interview questions sourced from Glassdoor, Blind, and LinkedIn writeups (2024-2026), organized by question type with company tags and notes on why each question is hard
+- `study-plan.md` — 7-day prep schedule that sequences all files into a daily rep cadence
 
 ## How to use this repo
 1. Pick one file based on the interview loop you are preparing for.
