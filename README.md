@@ -35,6 +35,22 @@ Most PM interview materials are still generic. AI PM interviews are not. Compani
 
 This repo exists to make those reps explicit.
 
+## Company Prep
+
+Targeted prep guides for 6 companies actively hiring AI PMs:
+
+**Netherlands track (visa-sponsoring)**
+- [Spotify](./company-prep/spotify.md) — squad culture, ML recommendations, Amsterdam
+- [Booking.com](./company-prep/booking-com.md) — experimentation culture, travel AI, Amsterdam
+
+**Global**
+- [Google / Google DeepMind](./company-prep/google-deepmind.md) — Gemini, Search AI, structured interviews
+
+**India track**
+- [Razorpay](./company-prep/razorpay.md) — B2B payments infrastructure, technical PM bar
+- [CRED](./company-prep/cred.md) — premium consumer, behavioral design, trust economy
+- [Flipkart](./company-prep/flipkart.md) — e-commerce at scale, seller ecosystem, Tier 2/3 India
+
 ## Suggested repo structure
 Keep the root clean. One file per question type is enough. Add examples only after you have real candidate feedback on which prompts produce the best interview reps.
 
